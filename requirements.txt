@@ -3,3 +3,11 @@ selenium
 pillow
 lxml
 requests
+discord
+DiscordComponents
+os
+subprocess
+sys
+datetime
+json
+time
